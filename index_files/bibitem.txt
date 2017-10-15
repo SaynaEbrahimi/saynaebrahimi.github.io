@@ -1,0 +1,8 @@
+@InProceedings{ebrahimi17a,
+  title     = {Gradient-free Policy Architecture Search and Adaptation},
+  author    = {Ebrahimi, Sayna and Rohrbach, Anna and Darrell, Trevor},
+  pages     = {1-9},
+booktitle={Conference on Robot Learning (CoRL)},
+journal={arXiv preprintarXiv:},
+year={2017}
+}  
