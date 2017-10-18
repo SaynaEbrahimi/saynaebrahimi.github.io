@@ -1,6 +1,0 @@
-The main imitation learning part of CORL is saved in trippleOutputs folder
-last results on server were coppied here. Training and TESTING folders are the most important ones
-
-Release is an entirely different code from Goodfellow on multiple output setup. It's a slow code but very well written.
-
-data_extraction_v2_works.py is the code that I used to extract images saved on gta to organized npy files.
