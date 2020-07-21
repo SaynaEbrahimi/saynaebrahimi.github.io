@@ -1,0 +1,6 @@
+@article{ebrahimi2020adversarial,
+  title={Adversarial continual learning},
+  author={Ebrahimi, Sayna and Meier, Franziska and Calandra, Roberto and Darrell, Trevor and Rohrbach, Marcus},
+  journal={arXiv preprint arXiv:2003.09553},
+  year={2020}
+}
