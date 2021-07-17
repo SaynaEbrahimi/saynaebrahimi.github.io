@@ -1,6 +1,6 @@
 @article{ebrahimi2020minimax,
   title={minimax active learning},
   author={Ebrahimi, Sayna and Gan, Will and Salahi, Kamyar and Darrell, Trevor},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2012.10467},
   year={2020}
 }
